@@ -1,8 +1,14 @@
-# React + Vite
+# My Projects Featured :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 01. Virtual Wedding Planner:
 
-Currently, two official plugins are available:
+--Integrate a virtual wedding planner tool that guides couples through the entire wedding planning process, from creating timelines to managing budgets and selecting vendors.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 02 Customizable Wedding Websites:
+
+--Offer customizable wedding website templates where couples can create their personalized wedding websites, including details about the event, RSVP options, and gift registries.
+
+- 03 .  Guest Collaboration Hub:
+- -
+
+Create a platform where couples can collaborate with their guests in real-time, share updates, and collect photos and well wishes leading up to the wedding.

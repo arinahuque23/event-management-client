@@ -1,6 +1,6 @@
 # My Projects Featured :
 
-- 01. Virtual Wedding Planner:
+- 01 Virtual Wedding Planner:
 
 --Integrate a virtual wedding planner tool that guides couples through the entire wedding planning process, from creating timelines to managing budgets and selecting vendors.
 
